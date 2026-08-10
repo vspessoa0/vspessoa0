@@ -1,5 +1,5 @@
 Olá, eu sou Vinicius 👋
-- 🧑‍🎓 Estudante de ciência da computação.
+- 🧑‍🎓 Formado em Ciência da Computação
 - 📘 Atualmente estudando HTML, CSS e Javascript.
 <div align="center">
   <a href="https://github.com/vspessoa0">
